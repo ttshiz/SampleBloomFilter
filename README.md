@@ -1,0 +1,1 @@
+This repository contains a simple proof of concept Bloom Filter implementation.
